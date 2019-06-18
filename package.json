@@ -1,0 +1,28 @@
+{
+  "name": "swagger_traing_usingHapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pralhad88/swagger_traing_usingHapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pralhad88/swagger_traing_usingHapi/issues"
+  },
+  "homepage": "https://github.com/pralhad88/swagger_traing_usingHapi#readme",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "hapi-swaggered": "^3.0.3",
+    "hapi-swaggered-ui": "^3.0.2",
+    "inert": "^5.1.3",
+    "joi": "^14.3.1",
+    "vision": "^5.4.4"
+  }
+}
